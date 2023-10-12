@@ -34,8 +34,7 @@ _I engourage to try_
 1. For text writing
 	- `** **` or `__ __`
 	- `* *` or `_ _`
-	- `  
-~~ ~~`
+	
 
 2.  Quating
 	- You can quote text with a >.
